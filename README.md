@@ -1,8 +1,7 @@
-# FoodOfast
-# Fast Food Restaurant Management System
+# Fast Food Restaurant System
 
 ## Description
-This Java console-based project is a simple management system for a fast-food restaurant. It provides functionalities for managing various aspects of the restaurant such as menu items, orders, customers, and employees.
+This Java console-based project is a simple management system for a fast-food restaurant. It provides functionalities for managing various aspects of the restaurant such as menu items, orders, customers.
 
 ## Features
 - **Menu Management**: Add, remove, and update menu items.
